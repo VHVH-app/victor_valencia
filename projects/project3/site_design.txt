@@ -1,0 +1,7 @@
+--JAPANESE SAKURA THEME--
+
+beige : #FFEFD6
+light pink : #FFEFD6
+standard pink : #FFA3C3
+rose pink : #ED7B8D
+sage contrast : #999D55
